@@ -9,13 +9,15 @@ Building intelligent AI systems, scalable full-stack applications, and agentic w
 ---
 
 ## ⚡ About Me
+
 - 🎓 B.Tech in Artificial Intelligence  
 - 🤖 Focus: Generative AI • RAG • Agentic AI • NLP  
 - 💻 Full Stack Developer (React • FastAPI • Node.js)  
-- 🧠 500+ DSA problems solved  
+- 🧠 1000+ DSA problems solved  
 - ☁️ 25+ Google Cloud Skill Badges  
 - 🔬 Interested in AI research & real-world ML systems  
 - 📍 Andhra Pradesh, India  
+
 ---
 
 ## 💻 Tech Stack
@@ -74,21 +76,42 @@ Building intelligent AI systems, scalable full-stack applications, and agentic w
 <img width="8"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img width="8"/>
+
 </p>
 
 ---
 
 ## 🏆 Competitive Programming
 
+
+<p align="center">
+  <a href="https://leetcode.com/dinesh9997"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/dinesh9997"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="45"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/gujjudinesh"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="45"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/dinesh9997"><img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" height="45"/></a>
+</p>
+
 - 🟨 LeetCode Rating: 1555  
 - 🟫 CodeChef Rating: 1512  
-- 🔥 500+ Problems Solved  
+- 🔥 1000+ Problems Solved  
 - 🧠 Strong DSA & problem-solving skills  
 
 ## 📫 Connect With Me  
-- LinkedIn: https://linkedin.com/in/gujju-dinesh  
-- Email: dineshgujju9997@gmail.com  
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/gujju-dinesh">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dineshgujju9997@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
