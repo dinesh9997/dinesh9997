@@ -98,7 +98,7 @@ Building intelligent AI systems, scalable full-stack applications, and agentic w
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dinesh9997?theme=dark&font=JetBrains%20Mono&ext=contest" />
 </p>
-- 🟨 LeetCode Rating: 1555  
+- 🟨 LeetCode Rating: 1570  
 - 🟫 CodeChef Rating: 1512  
 - 🔥 1000+ Problems Solved  
 - 🧠 Strong DSA & problem-solving skills
@@ -130,7 +130,6 @@ Building intelligent AI systems, scalable full-stack applications, and agentic w
 
 </p>
 
----
 ---
 
 # 🕹️ Pacman Contribution Graph
